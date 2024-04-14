@@ -1,0 +1,41 @@
+.root{
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    background-image: url("https://images.pexels.com/photos/1809644/pexels-photo-1809644.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+}
+button{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    padding: 16px;
+    border-radius: 5px;
+    background-color: rgb(38, 126, 228);
+    color: white;
+}
+button:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
+ input{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50vh;
+    border-radius: 5px;
+    padding: 13px;
+    border: none;
+    
+}

@@ -1,0 +1,29 @@
+i{
+    font-size:100px;
+}
+
+.root1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.root2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.root3{
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+    
